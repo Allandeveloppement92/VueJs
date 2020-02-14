@@ -19,12 +19,10 @@ export default {
         background-color: #615f5f;
         height: 50px;
         transform: translateY(10px);
-       
         }
 
     #text{
         transform: translateY(12px);
     }
     
-
 </style>
